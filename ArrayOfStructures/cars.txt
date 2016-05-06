@@ -1,0 +1,5 @@
+Koenigsegg-Regera  1790 5065 grey
+Mercedes-Benz-SLR-McLaren-V10-Quad-Turbo 1600 8382 black
+Aventador-LP1600-4-Mansory-Carbonado-GT 1600 6498 white
+Nissan-GT-R-AMS 1800 4000 red
+Bugatti-Chiron 1500 7993 blue
